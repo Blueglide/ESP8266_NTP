@@ -5,9 +5,9 @@ One of the first projects I wanted to complete after purchasing a <a href="https
 
 Although the published Sparkfun library ESP8266WiFi has good TCP support, a few additions are required for projects requiring simpler UDP functionality. 
 
-A new ESP8266Class_a class was derived using the Sparkfun ESP8266Class class as the base class to provide a few additional UDP-specific and other useful methods. 
+A new ESP8266Class_a class was derived using the Sparkfun ESP8266Class class as the base class to provide a a small number of additional UDP and other useful methods. 
 
-In addition an example NTP example sketch is provided to illustrate how it all fits together. It periodically syncs the software clock in Michael Margolis' Arduino Time library with an Internet based Time Server and keeps a record of any observed drift over time. 
+In addition an example NTP sketch is provided to illustrate how it all fits together. It periodically syncs the software clock in Michael Margolis' Arduino Time library with an Internet based Time Server and keeps a record of any observed drift over time. 
 
 
 
