@@ -9,6 +9,7 @@ A new ESP8266Class_a class was derived using the Sparkfun ESP8266Class class as 
 
 In addition an example NTP sketch is provided to illustrate how it all fits together. It periodically syncs the software clock in Michael Margolis' Arduino Time library with an Internet based Time Server and keeps a record of any observed drift over time. (See the User Interface ScreenCapture.jpg file.)
 
+All required files will be posted here shortly.
 
 
 
